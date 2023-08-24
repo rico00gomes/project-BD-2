@@ -1,2 +1,4 @@
 # project-BD-2
-¿ ser ou não ser eis a questão?
+Matéria: DS-330 BANCO DE DADOS 2
+
+objetivo, entrega das tarefas
